@@ -1,0 +1,10 @@
+package ecs;
+
+class Component{
+
+
+
+
+
+    
+}

@@ -1,0 +1,8 @@
+package ecs;
+
+class Entity {
+
+
+
+
+}
